@@ -1,8 +1,9 @@
 import React from "react";
+import QuoteGenerator from "./screens/quote-generator/QuoteGenerator";
 
 function App() {
   return (
-    <h1>Quote generator</h1>
+   <QuoteGenerator/>
   );
 }
 

@@ -1,0 +1,14 @@
+
+.content {
+    display: block;
+    background-color: rgb(253, 227, 227);
+    margin: auto;
+    width: 50%;
+    height: 500px;
+}
+.content-data{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
