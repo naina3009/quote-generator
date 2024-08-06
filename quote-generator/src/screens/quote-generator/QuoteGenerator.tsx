@@ -21,7 +21,7 @@ const QuoteGenerator : FC = ()=>{
     }
     return(
 
-        <div className="container main">
+        <div className="container">
             <div className="row content">
                 <div className="content-data">
                     <Headings 
